@@ -104,8 +104,10 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 
 ## Contact  
 
-For any questions or suggestions, feel free to reach out:  
-- **GitHub**: [Your GitHub Username](https://github.com/YourUsername)  
+Contact
+For questions or suggestions, reach out to:
+
+Email: ahmed.hamdii.kamal@gmail.com
 
 ---
 
