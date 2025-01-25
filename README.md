@@ -15,7 +15,7 @@ This repository contains a sentiment analysis project using a deep learning mode
 
 ## Try the App  
 
-You can try the live version of this app here: [IMDB Reviews Sentiment Classifier]((https://imdb-reviews-sentiment-classifier-hamdii.streamlit.app/))  
+You can try the live version of this app here: [IMDB Reviews Sentiment Classifier](https://imdb-reviews-sentiment-classifier-hamdii.streamlit.app/)
 
 *(Replace `#` with the actual link once the app is deployed.)*  
 
